@@ -1,0 +1,12 @@
+## Interface: 90100
+## Title: QoL-VolumeCycler
+## Author: redbeard923
+## Dependencies: QoL-Common
+## OptionaldDeps: QoL-AutoConfirm, QoL-AutoDecline, QoL-MiddleMarker
+## SavedVariables: VC_Config_Acct
+## SavedVariablesPerCharacter: VC_Config_Toon
+## Version: 1.0.0
+
+Events.lua
+Options.lua
+VolumeCycler.lua
